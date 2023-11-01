@@ -5,7 +5,18 @@ In most of the video anomaly approaches, a deep neural network model is trained 
 For this purpose, we proposed Scene Adaptable Anomaly Detection (SAAD) Dataset. The selected videos in the dataset were chosen to include at least 5 seconds of normal state at the start of the video. Thus, an anomaly detection model that can observe at least 5 seconds (approximately 100 frames) of normal state will be able to acquire information about the dynamics/patterns of the scene and update its parameters based on this information, making more accurate decisions about the scene. It is considered that this dataset  will be useful for the development and testing of scene-adaptable anomaly detection methods in the future.
 
 
-The annotations of this dataset can be found on this Google Excel sheet: https://docs.google.com/spreadsheets/d/1l3vGeiajX9XikW7tRRXhmrGujEEJ8McptlvfpGp8RvY/edit?usp=drive_link
+The annotations of this dataset can be found on this Google Excel sheet: 
 
-The collected videos can be downloaded from here: https://drive.google.com/drive/folders/1IWbLeVfD9suelA2CshMYqR-UK8ZOITMt?usp=drive_link
+https://docs.google.com/spreadsheets/d/1l3vGeiajX9XikW7tRRXhmrGujEEJ8McptlvfpGp8RvY/edit?usp=drive_link
+
+The collected videos can be downloaded from here: 
+
+https://drive.google.com/drive/folders/1IWbLeVfD9suelA2CshMYqR-UK8ZOITMt?usp=drive_link
+
+
+Acknowledgements
+
+We thank to Hüseyin Can Yılmaz and Veli Toprak Güngör, who did the data collection and annotation tasks of these dataset.  
+
+We thank to the Scientific and Technological Research Council of Turkey (TUBITAK). This work was supported by TUBITAK under Grant No. 119E098
 
