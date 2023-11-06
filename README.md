@@ -20,8 +20,7 @@ We thank to Hüseyin Can Yılmaz and Veli Toprak Güngör, who did the data sele
 
 We thank to the Scientific and Technological Research Council of Turkey (TUBITAK). This work was supported by TUBITAK under Grant No. 119E098
 
-#References
-
+# References
 1. Sultani, W., Chen, C., & Shah, M. (2018). Real-world anomaly detection in surveillance videos. In Proceedings of the IEEE conference on computer vision and pattern recognition (pp. 6479-6488).
 2. Degardin, Bruno, and Hugo Proença. "Human Activity Analysis: Iterative Weak/Self-Supervised Learning Frameworks for Detecting Abnormal Events." 2020 IEEE International Joint Conference on Biometrics (IJCB). IEEE.
 3. de Paula, D. D., Salvadeo, D. H., & de Araujo, D. M. (2022). CamNuvem: A robbery dataset for video anomaly detection. Sensors, 22(24), 10016.
