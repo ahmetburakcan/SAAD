@@ -1,4 +1,4 @@
-Welcome to the Scene Adaptable Anomaly Detection (SAAD) Dataset!
+#Welcome to the Scene Adaptable Anomaly Detection (SAAD) Dataset!
 
 In most of the video anomaly approaches, a deep neural network model is trained on one or more datasets, and it is assumed that the resulting model can be used in all different environments monitored by the surveillance system. However, the dynamics of a street scene where people or cars pass are very different from the scene dynamics of a quiet area in a building. If an anomaly detection model working on a surveillance system is adjusted according to dynamics of the quiet area inside the building, it will generally generate false anomaly alerts for the street environment. On the other hand, if an anomaly detection model can adapt itself to the dynamics of an observed area for the normal situations, the model can make more successful anomaly decisions.
 
