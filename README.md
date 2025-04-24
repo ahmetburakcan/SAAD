@@ -22,7 +22,7 @@ We thank to Hüseyin Can Yılmaz and Veli Toprak Güngör, who did the data sele
 
 We thank to the Scientific and Technological Research Council of Turkey (TUBITAK) and Hacettepe University Scientific Research Projects
 Coordination Department. This work was supported by the Scientific and Technological Research Council of Turkey
-(TUBITAK) under Grant No. 119E098 and Hacettepe University Scientific Research Projects Coordination Department under Grant No. FHD-2022-20044
+(TUBITAK) under Grant No. 119E098 and Hacettepe University Scientific Research Projects Coordination Department under Grant No. FHD-2022-20044.
 
 
 # References
